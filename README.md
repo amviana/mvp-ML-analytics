@@ -1,4 +1,4 @@
-Trabalho para obtenção de nota no MVP da sprint Análise de Dados e Boas Práticas.
+Trabalho para obtenção de nota no MVP da sprint Machine Learning e Analytics.
 
 Link Github: https://github.com/amviana/mvp-ML-analytics
 
